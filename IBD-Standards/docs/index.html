@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>IBD Standards Self-Assessment</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">IBD Standards 2026</p>
+        <h1 id="page-title">Service self-assessment</h1>
+      </div>
+      <nav class="tabs" aria-label="Views">
+        <button class="tab active" type="button" data-view="assessment">Assessment</button>
+        <button class="tab" type="button" data-view="dashboard">Dashboard</button>
+      </nav>
+    </header>
+
+    <main>
+      <section id="assessment-view" class="view active" aria-labelledby="assessment-heading">
+        <div class="intro">
+          <div>
+            <h2 id="assessment-heading">Complete the self-assessment</h2>
+            <p>
+              For each standard, rate whether you believe your IBD service currently meets the standard.
+              You can add a short comment explaining the reason for your rating.
+            </p>
+          </div>
+          <div class="privacy-note">
+            <strong>Duplicate check</strong>
+            <p>
+              Your surname is used only to prevent duplicate entries. It is converted to a private code
+              before storage and is never shown on the dashboard.
+            </p>
+          </div>
+        </div>
+
+        <form id="assessment-form">
+          <section class="respondent-panel" aria-label="Respondent details">
+            <label>
+              Surname for duplicate check
+              <input id="surname" name="surname" autocomplete="family-name" required>
+            </label>
+          </section>
+
+          <div id="standards-form" class="standards-list"></div>
+
+          <div class="form-actions">
+            <p id="submit-status" role="status"></p>
+            <button class="primary-action" type="submit">Submit assessment</button>
+          </div>
+        </form>
+      </section>
+
+      <section id="dashboard-view" class="view" aria-labelledby="dashboard-heading">
+        <div class="dashboard-head">
+          <div>
+            <p class="eyebrow">Live summary</p>
+            <h2 id="dashboard-heading">Team dashboard</h2>
+            <p class="dashboard-credit">Created by: Keith Bodger using Codex</p>
+          </div>
+          <div class="dashboard-meta">
+            <span id="respondent-count">Respondents: 0</span>
+            <span id="dashboard-date">Date: -</span>
+          </div>
+          <button class="secondary-action" id="print-report" type="button">Export PDF</button>
+        </div>
+        <div id="dashboard-status" class="status-line"></div>
+        <div id="dashboard-content" class="dashboard-grid"></div>
+      </section>
+    </main>
+
+    <script src="config.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
