@@ -1,0 +1,362 @@
+[
+  {
+    "section": 1,
+    "sectionTitle": "The IBD Service",
+    "number": "1.1",
+    "statement": "Patients should be cared for by a defined multidisciplinary team. For children and young people this must include a paediatric gastroenterologist."
+  },
+  {
+    "section": 1,
+    "sectionTitle": "The IBD Service",
+    "number": "1.2",
+    "statement": "All patients should have a named specialist(s) responsible for their care."
+  },
+  {
+    "section": 1,
+    "sectionTitle": "The IBD Service",
+    "number": "1.3",
+    "statement": "Multidisciplinary team meetings should take place regularly to discuss appropriate patients and be organised by a named coordinator. Patients should receive appropriate feedback from MDT meetings."
+  },
+  {
+    "section": 1,
+    "sectionTitle": "The IBD Service",
+    "number": "1.4",
+    "statement": "A structured transition programme should be in place to support teenagers and young people with IBD, led by a paediatric and/or adult gastroenterologist."
+  },
+  {
+    "section": 1,
+    "sectionTitle": "The IBD Service",
+    "number": "1.5",
+    "statement": "The IBD service should have a leadership team which includes, as a minimum, a gastroenterologist and/or a paediatric gastroenterologist, colorectal surgeon, IBD nurse specialist and manager, who have responsibility for managing, monitoring and developing the service."
+  },
+  {
+    "section": 1,
+    "sectionTitle": "The IBD Service",
+    "number": "1.6",
+    "statement": "The IBD leadership team should work with or include an expert pharmacist in IBD to ensure good medicines governance, including medicines optimisation and cost-effectiveness; an expert dietitian to ensure appropriate oversight of dietetic assessment and intervention; and a psychologist with an interest in IBD to coordinate psychology provision within the service."
+  },
+  {
+    "section": 1,
+    "sectionTitle": "The IBD Service",
+    "number": "1.7",
+    "statement": "IBD teams should engage with continuous quality improvement and participate in local and national audit. This should include feedback from patients on outcomes and experiences."
+  },
+  {
+    "section": 1,
+    "sectionTitle": "The IBD Service",
+    "number": "1.8",
+    "statement": "Patients and parents/carers should have a voice and direct involvement in the development of the service."
+  },
+  {
+    "section": 1,
+    "sectionTitle": "The IBD Service",
+    "number": "1.9",
+    "statement": "All patients with an IBD diagnosis should be recorded in an electronic clinical management system."
+  },
+  {
+    "section": 1,
+    "sectionTitle": "The IBD Service",
+    "number": "1.10",
+    "statement": "In their clinical encounters, patients should receive personalised signposting to easily accessible information about IBD, the local IBD service and patient organisations in a variety of formats that meet all needs."
+  },
+  {
+    "section": 1,
+    "sectionTitle": "The IBD Service",
+    "number": "1.11",
+    "statement": "Where clinically appropriate, radiological investigations should aim to prioritise the use of MRI and ultrasound as they do not use ionising radiation. These should be accessible within 6 weeks of referral for routine care, within 2 weeks for urgent IBD referrals and within 24 hours for patients requiring admission."
+  },
+  {
+    "section": 1,
+    "sectionTitle": "The IBD Service",
+    "number": "1.12",
+    "statement": "Endoscopic assessment should be available within 6 weeks of referral for routine care, within 2 weeks for urgent IBD referrals and within 24 hours for patients requiring admission."
+  },
+  {
+    "section": 1,
+    "sectionTitle": "The IBD Service",
+    "number": "1.13",
+    "statement": "Histological processing and reporting should take place routinely within one week or within two working days for reporting of urgent biopsy samples."
+  },
+  {
+    "section": 1,
+    "sectionTitle": "The IBD Service",
+    "number": "1.14",
+    "statement": "A locally agreed policy should be in place for immunomodulators, targeted small molecules and biologics, including pre-treatment tests, vaccinations, prescribing, administration and monitoring."
+  },
+  {
+    "section": 1,
+    "sectionTitle": "The IBD Service",
+    "number": "1.15",
+    "statement": "Patients should be fully informed about the benefits and risks of all treatments including medical therapy, diet and surgery."
+  },
+  {
+    "section": 1,
+    "sectionTitle": "The IBD Service",
+    "number": "1.16",
+    "statement": "Appropriate nutritional therapy should be available to IBD patients, including exclusive enteral nutrition for Crohn’s disease and parenteral nutrition where required."
+  },
+  {
+    "section": 1,
+    "sectionTitle": "The IBD Service",
+    "number": "1.17",
+    "statement": "All members of the IBD team should be trained and supported to develop competencies and be educated to a level appropriate to their role with access to professional support, supervision and funded study leave."
+  },
+  {
+    "section": 1,
+    "sectionTitle": "The IBD Service",
+    "number": "1.18",
+    "statement": "IBD services should participate in research. Patients should have the opportunity to participate in observational or interventional studies."
+  },
+  {
+    "section": 2,
+    "sectionTitle": "Pre-Diagnosis",
+    "number": "2.1",
+    "statement": "There should be locally agreed adult and paediatric policies and pathways for referral of suspected IBD between primary and secondary care that include the availability of faecal biomarker testing - calprotectin and/or faecal immunochemical test (FIT)."
+  },
+  {
+    "section": 2,
+    "sectionTitle": "Pre-Diagnosis",
+    "number": "2.2",
+    "statement": "Patients who are referred with suspected IBD should be seen in clinic or attend a ‘straight to test’ procedure within four weeks of referral, or more rapidly if clinically necessary."
+  },
+  {
+    "section": 2,
+    "sectionTitle": "Pre-Diagnosis",
+    "number": "2.3",
+    "statement": "Patients presenting with acute severe colitis should be admitted to a centre with medical and surgical expertise in managing IBD that is available at all times."
+  },
+  {
+    "section": 2,
+    "sectionTitle": "Pre-Diagnosis",
+    "number": "2.4",
+    "statement": "All patients should be provided with a point of contact and clear information about pathways and timescales while awaiting the outcome of tests and investigations."
+  },
+  {
+    "section": 3,
+    "sectionTitle": "Newly Diagnosed",
+    "number": "3.1",
+    "statement": "All newly diagnosed IBD patients should be seen by appropriate specialists from the IBD multidisciplinary team."
+  },
+  {
+    "section": 3,
+    "sectionTitle": "Newly Diagnosed",
+    "number": "3.2",
+    "statement": "Following diagnosis, all patients should have a full assessment of their disease activity, nutritional status, mental health, fatigue and extra intestinal manifestations. This should include growth status for children and teenagers and an infection screen for patients likely to require immunomodulators, targeted small molecules or biologics."
+  },
+  {
+    "section": 3,
+    "sectionTitle": "Newly Diagnosed",
+    "number": "3.3",
+    "statement": "Patients should be supported to make informed, shared decisions about their treatment and care to ensure these take their preferences and goals fully into account."
+  },
+  {
+    "section": 3,
+    "sectionTitle": "Newly Diagnosed",
+    "number": "3.4",
+    "statement": "After diagnosis, all outpatients with IBD should have a treatment plan."
+  },
+  {
+    "section": 3,
+    "sectionTitle": "Newly Diagnosed",
+    "number": "3.5",
+    "statement": "After a confirmed diagnosis, treatment should be started immediately where clinically appropriate, for example oral mesalazine, oral corticosteroids, or topical therapies. If treatment with an immunomodulator, targeted small molecule or biologic is required, this should be started within two weeks of completion of the necessary pre-treatment screening tests."
+  },
+  {
+    "section": 3,
+    "sectionTitle": "Newly Diagnosed",
+    "number": "3.6",
+    "statement": "Once a diagnosis has been confirmed, patients and GPs should be informed within two days."
+  },
+  {
+    "section": 4,
+    "sectionTitle": "Flare Management",
+    "number": "4.1",
+    "statement": "Local primary and secondary care treatment pathways and protocols should be in place for the management of IBD patients experiencing flares."
+  },
+  {
+    "section": 4,
+    "sectionTitle": "Flare Management",
+    "number": "4.2",
+    "statement": "All patients with IBD should be given advice about what to do in the case of a flare and who to contact."
+  },
+  {
+    "section": 4,
+    "sectionTitle": "Flare Management",
+    "number": "4.3",
+    "statement": "Access to specialist advice should be available to patients to guide early flare intervention, including access to a telephone/email advice line with response by the end of the next working day."
+  },
+  {
+    "section": 4,
+    "sectionTitle": "Flare Management",
+    "number": "4.4",
+    "statement": "Following initial advice-line response for a flare, further review should be planned at a clinically indicated interval and communicated to the patient. Where a treatment plan is agreed it should be initiated within 2 days."
+  },
+  {
+    "section": 4,
+    "sectionTitle": "Flare Management",
+    "number": "4.5",
+    "statement": "Steroid treatment should be managed in accordance with guidelines and audited on an ongoing basis, with clear guidance to primary care and patients."
+  },
+  {
+    "section": 5,
+    "sectionTitle": "Surgery",
+    "number": "5.1",
+    "statement": "Patients should have access to coordinated surgical and medical clinical expertise pre- and post-operatively, which should include regular combined or parallel clinics with a specialist colorectal surgeon (paediatric colorectal surgeon where appropriate), IBD gastroenterologist and clinical nurse specialist."
+  },
+  {
+    "section": 5,
+    "sectionTitle": "Surgery",
+    "number": "5.2",
+    "statement": "Elective IBD surgery should be performed by a colorectal surgeon with expertise in IBD (paediatric colorectal surgeon where appropriate) who is a core member of the IBD team in a unit where such operations are undertaken regularly."
+  },
+  {
+    "section": 5,
+    "sectionTitle": "Surgery",
+    "number": "5.3",
+    "statement": "In the absence of relevant local expertise in complex IBD, paediatric patients or adult patients requiring complex surgery should be referred to a specialist unit."
+  },
+  {
+    "section": 5,
+    "sectionTitle": "Surgery",
+    "number": "5.4",
+    "statement": "Patients with IBD being considered for surgery should be provided with information in a format and language they can easily understand to support decision making and informed consent. All patients should have access to stoma nurse support pre-operatively where indicated. Psychological support should be available where needed."
+  },
+  {
+    "section": 5,
+    "sectionTitle": "Surgery",
+    "number": "5.5",
+    "statement": "Prior to elective surgery, a full assessment and optimisation of medical treatment, physical condition and nutritional status should be undertaken to minimise risk of complications and aid post-operative recovery."
+  },
+  {
+    "section": 5,
+    "sectionTitle": "Surgery",
+    "number": "5.6",
+    "statement": "Patients should be counselled about minimally invasive options (e.g. laparoscopic, robotic surgery), when appropriate, in accordance with clinical guidelines."
+  },
+  {
+    "section": 5,
+    "sectionTitle": "Surgery",
+    "number": "5.7",
+    "statement": "Surgery for IBD should incorporate a pathway for enhanced recovery when appropriate."
+  },
+  {
+    "section": 5,
+    "sectionTitle": "Surgery",
+    "number": "5.8",
+    "statement": "Patients and parents/carers should be provided with information about postoperative care before discharge, including wound care. Stoma care and psychological support should be available where needed."
+  },
+  {
+    "section": 5,
+    "sectionTitle": "Surgery",
+    "number": "5.9",
+    "statement": "Planned surgery for IBD should be performed within 4 weeks from the decision to operate or as soon as the patient’s clinical status has been optimised."
+  },
+  {
+    "section": 5,
+    "sectionTitle": "Surgery",
+    "number": "5.10",
+    "statement": "Patient safety incidents should be recorded and actioned, including delays in surgical treatment for patients with IBD on an elective surgery list that subsequently results in emergency surgery due to a disease complication."
+  },
+  {
+    "section": 6,
+    "sectionTitle": "Inpatient Care",
+    "number": "6.1",
+    "statement": "Inpatients should be seen by a specialist gastroenterologist or colorectal surgeon within 24 hours of admission and transferred to a specialist ward area within 2 days of admission to ensure regular specialist review."
+  },
+  {
+    "section": 6,
+    "sectionTitle": "Inpatient Care",
+    "number": "6.2",
+    "statement": "Where ensuite rooms are not available, inpatients with IBD should have a minimum of one easily accessible toilet per three beds on a ward."
+  },
+  {
+    "section": 6,
+    "sectionTitle": "Inpatient Care",
+    "number": "6.3",
+    "statement": "For inpatients admitted with an IBD flare, initial management should be guided by an agreed local protocol."
+  },
+  {
+    "section": 6,
+    "sectionTitle": "Inpatient Care",
+    "number": "6.4",
+    "statement": "Children and adults admitted as inpatients with acute severe colitis should have daily review by appropriate specialists."
+  },
+  {
+    "section": 6,
+    "sectionTitle": "Inpatient Care",
+    "number": "6.5",
+    "statement": "On admission to hospital, nutritional status, mental health, pain and extra intestinal manifestations should be assessed using validated tools, where available. Pathways should be in place for onward referral as appropriate."
+  },
+  {
+    "section": 6,
+    "sectionTitle": "Inpatient Care",
+    "number": "6.6",
+    "statement": "All IBD inpatients should have access to an IBD nurse specialist who should be notified of all IBD admissions."
+  },
+  {
+    "section": 6,
+    "sectionTitle": "Inpatient Care",
+    "number": "6.7",
+    "statement": "Pharmacists reviewing IBD inpatients should have access to an expert IBD pharmacist for advice. A locally agreed policy should be in place for the perioperative management of IBD medicines."
+  },
+  {
+    "section": 6,
+    "sectionTitle": "Inpatient Care",
+    "number": "6.8",
+    "statement": "Before discharge, patients should be provided with clear, written information about follow up care, including a telephone number/email address to contact in the event of clinical queries. Patients should be counselled on discharge regarding new medications and appliances."
+  },
+  {
+    "section": 7,
+    "sectionTitle": "Ongoing Care and Monitoring",
+    "number": "7.1",
+    "statement": "A personalised care plan agreed by the patient, communicated and accessible to primary and secondary care should be in place for every IBD patient."
+  },
+  {
+    "section": 7,
+    "sectionTitle": "Ongoing Care and Monitoring",
+    "number": "7.2",
+    "statement": "Patients should be supported in self-management, as appropriate, through referral or personalised signposting to education, groups and support."
+  },
+  {
+    "section": 7,
+    "sectionTitle": "Ongoing Care and Monitoring",
+    "number": "7.3",
+    "statement": "Clear shared care protocols should be in place for the monitoring, prescribing and supply of IBD medicines across primary and secondary care settings with a clear pathway for advice or referral back to the specialist team where necessary."
+  },
+  {
+    "section": 7,
+    "sectionTitle": "Ongoing Care and Monitoring",
+    "number": "7.4",
+    "statement": "Arrangements should be in place to monitor and review patients started on nutritional therapies and supplements to assess their ongoing needs across primary and secondary care."
+  },
+  {
+    "section": 7,
+    "sectionTitle": "Ongoing Care and Monitoring",
+    "number": "7.5",
+    "statement": "Patients should understand how, when and who to contact in the event of clinical queries about their IBD and/or their medicines."
+  },
+  {
+    "section": 7,
+    "sectionTitle": "Ongoing Care and Monitoring",
+    "number": "7.6",
+    "statement": "Full consideration should be given to identify and manage symptoms of most importance to the patient e.g. pain, fatigue, comorbidities, extra-intestinal manifestations, continence and sexual function. IBD patients should be investigated and managed using a multidisciplinary approach including pharmacological, non-pharmacological, dietary and psychological interventions where appropriate."
+  },
+  {
+    "section": 7,
+    "sectionTitle": "Ongoing Care and Monitoring",
+    "number": "7.7",
+    "statement": "Any reviews and changes of treatment in primary or secondary care should be clearly recorded and communicated to all relevant parties including GPs, patients and parents/carers within 2 days."
+  },
+  {
+    "section": 7,
+    "sectionTitle": "Ongoing Care and Monitoring",
+    "number": "7.8",
+    "statement": "Review frequency should be agreed with the patient on an ongoing basis, including access to supported self-management and Patient Initiated Follow Up (PIFU) pathways."
+  },
+  {
+    "section": 7,
+    "sectionTitle": "Ongoing Care and Monitoring",
+    "number": "7.9",
+    "statement": "A mechanism should be in place to ensure that colorectal cancer (CRC) surveillance is carried out in line with national guidance and that patients and parent/carers are aware of the process and their individual risk factors for CRC."
+  }
+]
