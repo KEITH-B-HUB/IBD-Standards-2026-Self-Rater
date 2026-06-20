@@ -65,11 +65,11 @@ function renderAssessment() {
     const card = document.createElement("section");
     card.className = "standard-card";
     card.innerHTML = `
-      <div class="standard-title">
+      <div class="standard-title assessment-standard-title">
         <span class="standard-number">${standard.number}</span>
-          <h3 class="standard-question">Does the service meet this standard?</h3>
+        <p class="statement assessment-statement">${escapeHtml(standard.statement)}</p>
       </div>
-      <p class="statement assessment-statement">${escapeHtml(standard.statement)}</p>
+      <h3 class="standard-question">How would you rate whether the service meets this standard?</h3>
       <fieldset class="rating-group">
         <legend class="sr-only">Rating for standard ${standard.number}</legend>
         ${RATINGS.map((rating) => `
